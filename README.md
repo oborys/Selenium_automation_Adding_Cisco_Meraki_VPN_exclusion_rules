@@ -1,0 +1,2 @@
+# Selenium_automation_Adding_Cisco_Meraki_VPN_exclusion_rules
+Selenium automation: Adding Cisco Meraki VPN exclusion rules
