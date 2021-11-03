@@ -16,6 +16,8 @@ cd Selenium_automation_Adding_Cisco_Meraki_VPN_exclusion_rules
 
 Open files `cred` and paste your variable that you use to access to the Cisco Meraki dashboard `Email` as `pass`, and 'url_sd_wan_and_traffic_rules'
 
+![img](img/selenium_demo.png)
+
 **For Windows:**
 
 <details><summary>CLICK ME</summary>
