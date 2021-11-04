@@ -8,7 +8,7 @@ In the sample, you can see how we automatically add (from the list) VPN exclusio
 You can deploy app using [Python](https://www.python.org/downloads/)
 
 Download the latest Firefox driver [here](https://github.com/mozilla/geckodriver/releases/tag/v0.30.0)
-Add Firefox driver in `/usr/local/bin/geckodriver` or edit path in `fillLocalInternetBreakout.py` [file] (https://github.com/oborys/Selenium_automation_Adding_Cisco_Meraki_VPN_exclusion_rules/blob/d114a56f47b1f42d25550c9dbe12230d68f3ddea/fillLocalInternetBreakout.py#L28)
+Add Firefox driver in `/usr/local/bin/geckodriver` or edit path in `fillLocalInternetBreakout.py` [file](fillLocalInternetBreakout.py#L28)
 
 ### Clone and open project
 
